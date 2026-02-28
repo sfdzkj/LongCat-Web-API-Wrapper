@@ -1,4 +1,4 @@
-1# LongCat Web API Wrapper
+# LongCat Web API Wrapper
 
 A lightweight compatibility layer that exposes LongCat capabilities through OpenAI- and Claude-compatible APIs, with a built-in dark admin panel, account pool management, and request logs.
 
