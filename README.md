@@ -1,6 +1,10 @@
 # LongCat Web API Wrapper
 
+本项目基于 https://github.com/JessonChan/longcat-web-api 修改。
+
 一个将 LongCat 能力包装为 OpenAI / Claude 兼容接口的轻量服务，内置深色后台管理页面、账号池与请求日志。
+
+目前openclaw聊天可以调用工具，思考无法调用工具，希望有大佬可以修复下。
 
 ## 项目简介
 
